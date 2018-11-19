@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TPPuissance4
 {
-    class Grille
+    public class Grille
     {
     }
 }
